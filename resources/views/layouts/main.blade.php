@@ -229,9 +229,9 @@
                             <h3>Address</h3>
                             <ul class="footer-contact-info">
                                 <li><i class='bx bx-map'></i>Ruaka, Nairobi county Kenya, Ruaka Town </li>
-                                <li><i class='bx bx-phone-call'></i><a href="tel:+254751751681">+254 751 751 681</a></li>
+                                <li><i class='bx bx-phone-call'></i><a href="tel:+254751487681">+254 751 487 681</a></li>
                                 <li><i class='bx bx-envelope'></i><a href="info@skysofttechnology.com"><span class="__cf_email__">info@skysofttechnology.com</span></a></li>
-                                <li><i class='bx bxs-inbox'></i><a href="tel:+254751751681">+254751751681</a></li>
+                                <li><i class='bx bxs-inbox'></i><a href="tel:+254751487681">+254751487681</a></li>
                             </ul>
                         </div>
                     </div>
